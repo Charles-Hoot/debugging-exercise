@@ -1,6 +1,10 @@
 # [Debugging Exercise]
 
 ## Links
+## Links
+
+- [Hosted Page](https://charles-hoot.github.io/web-apps-debugging-exercise/)
+- [Repo](https://github.com/charles-hoot/web-apps-debugging-exercise)
 
 ## Get Started
 
