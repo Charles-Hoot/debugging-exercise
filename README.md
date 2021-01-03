@@ -1,9 +1,6 @@
-# [Debugging Exercise](https://github.com/mprogers/debugging-exercise)
+# [Debugging Exercise]
 
 ## Links
-
-- [Demo](https://mprogers.github.io/debugging-exercise)
-- [Source](https://github.com/mprogers/debugging-exercise)
 
 ## Get Started
 
